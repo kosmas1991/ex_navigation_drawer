@@ -1,3 +1,5 @@
+![Screenshot](screenshot.jpg)
+
 # ex_navigation_drawer
 
 A new Flutter project.
